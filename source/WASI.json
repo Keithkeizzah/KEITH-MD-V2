@@ -1,7 +1,7 @@
 {
     "__JSON__": true,
-    "AUTHOR": "Wasi-md-v2",
-    "theme": "wasi-md-v2",
+    "AUTHOR": "keith-md-v2",
+    "theme": "keith-md-v2",
     "LANGUAGE": "English",
     "LANGCODE": "en",  
     "STRINGS": { 
@@ -10,7 +10,7 @@
             "UPDATED_LOCAL": "Updated Bot successfully"
         },  
         "global": {      
-            "botName": "WASI-MD-V2",
+            "botName": "KEITH-MD-V2",
             "body": "Simple WhatsApp Bot", 
             "greet2" : "GoodDay SIR",
             "pic1": "https://telegra.ph/file/9f5aac1b37d65de4c725c.jpg", 
@@ -21,7 +21,7 @@
             "pic6": "https://telegra.ph/file/9f5aac1b37d65de4c725c.jpg", 
             "pic7": "https://telegra.ph/file/9f5aac1b37d65de4c725c.jpg",
             "greet" : "Hey there",
-            "dotbody" : "Oh Sir wasi md v2 My Creator.",
+            "dotbody" : "Oh Sir keith md v2 My Creator.",
             "emojii" : "🍑", 
             "promote": "ADMIN ROLE TO WASI-MD-V2",
             "pmallow": "Hello &user Do not Spam",
